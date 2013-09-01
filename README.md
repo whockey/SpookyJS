@@ -1,3 +1,7 @@
+## Edited by whockey 
+Enabling Spooky to set the enviroment in which Casper starts. Useful for when programs like Monit, purge the enviroment at runtime.
+
+
 # SpookyJS
 
 Drive [CasperJS](http://casperjs.org/) from Node.js.
